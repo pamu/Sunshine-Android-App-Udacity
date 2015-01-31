@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <string name="prefs_location_key">location</string>
+
+    <string name="default_location">Banglore,In</string>
+
+    <string name="title_settings_location_dialog">Location</string>
+
+    <string name="units_label_key">units</string>
+    <string name="settings_units_title">Units</string>
+    <string name="units_value">C</string>
+
+</resources>
